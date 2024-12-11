@@ -1,4 +1,4 @@
-# •	Analyzed Student Performance Factors
+# Analyzed Student Performance Factors
 
 ### Gambaran Dataset:  
 [Student Perfornance Factors](https://www.kaggle.com/datasets/lainguyn123/student-performance-factors) merupakan data yang berisikan tentang faktor yang memengaruhi hasil ujian akhir siswa.
